@@ -1,0 +1,18 @@
+Origin: Full Chain Sentinel
+Label: Full Chain Sentinel
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: SentinelBridge packages for Full Chain Sentinel
+Date: Thu, 22 Oct 2026 11:53:40 +0000
+MD5Sum:
+ 11021d2ff501eceee0872c1fdc125029 1055 Packages
+ 10b7a505a3c53dc349bc6834b42bb6e6 502 Packages.gz
+SHA1:
+ d1485ba447e570137184baf3020964f78d438a29 1055 Packages
+ 38f0ea3188e8a29be0728bdc5d0218e5261ba4a2 502 Packages.gz
+SHA256:
+ 1d8a5770e2abc453289fc57d2185edf84ad33763a9c73e15dbec34d12f17a71d 1055 Packages
+ 1f8ab6e4d412655f6f1edf489563553374be1e4f04aac4e62c84e20a7991a8dc 502 Packages.gz
